@@ -1,3 +1,13 @@
+# NLW - 06 - Trilha React.js
+Teacher: Diego Fernandes
+Date: Juny 20 to 27
+
+# Tecnologies / Tecnologias
+🚀 React.js
+🚀 TypeScript
+🚀 Sass
+🚀 Firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
